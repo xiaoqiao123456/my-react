@@ -1,0 +1,6 @@
+export const CHANGE_LIST = 'header/CHANGE_LIST'
+export const SHOW_MODAL = 'header/SHOW_MODAL'
+export const HIDE_MODAL = 'header/HIDE_MODAL'
+export const IS_LOGIN = 'header/IS_LOGIN'
+export const LOGIN_OUT = 'header/LOGIN_OUT'
+export const GET_LIST = 'header/GET_LIST'
